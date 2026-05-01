@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imam Ghozali | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Animasi Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+<body class="dark-theme">
+    <nav>
+        <div class="logo">IG</div>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><button class="hire-me">Hire Me</button></li>
+        </ul>
+    </nav>
+
+    <section id="home" class="hero">
+        <div class="hero-text" data-aos="fade-up">
+            <span class="status">🟢 Available for Freelance</span>
+            <h1>I Create Content That <span>Drives Impact</span></h1>
+            <p>Creative Editor & Social Media Specialist dengan fokus pada konten visual yang menarik.</p>
+            <div class="cta-buttons">
+                <button class="btn-primary">Lihat Portfolio</button>
+                <button class="btn-secondary">Hubungi Saya</button>
+            </div>
+        </div>
+        <div class="hero-image" data-aos="zoom-in">
+            <!-- Masukkan foto kamu di sini -->
+            <div class="image-circle"></div>
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>AOS.init();</script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imam Ghozali | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Animasi Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+<body class="dark-theme">
+    <nav>
+        <div class="logo">IG</div>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><button class="hire-me">Hire Me</button></li>
+        </ul>
+    </nav>
+
+    <section id="home" class="hero">
+        <div class="hero-text" data-aos="fade-up">
+            <span class="status">🟢 Available for Freelance</span>
+            <h1>I Create Content That <span>Drives Impact</span></h1>
+            <p>Creative Editor & Social Media Specialist dengan fokus pada konten visual yang menarik.</p>
+            <div class="cta-buttons">
+                <button class="btn-primary">Lihat Portfolio</button>
+                <button class="btn-secondary">Hubungi Saya</button>
+            </div>
+        </div>
+        <div class="hero-image" data-aos="zoom-in">
+            <!-- Masukkan foto kamu di sini -->
+            <div class="image-circle"></div>
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>AOS.init();</script>
+</body> 
+</html>
